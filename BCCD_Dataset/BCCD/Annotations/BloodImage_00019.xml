@@ -1,7 +1,7 @@
 <annotation>
 	<folder>DATASET</folder>
-	<filename>BloodImage_00000.jpg</filename>
-	<path>D:\CHARMA'S DATA\course\SEMESTER 7\DATA SET\Sampel Darah Sakit-20210925T181947Z-001\Sampel Darah Sakit\April - Mei\DATASET\BloodImage_00000.jpg</path>
+	<filename>BloodImage_00019.jpg</filename>
+	<path>D:\CHARMA'S DATA\course\SEMESTER 7\DATA SET\Sampel Darah Sakit-20210925T181947Z-001\Sampel Darah Sakit\April - Mei\DATASET\BloodImage_00019.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Eritrosit</name>
+		<name>Limfoblast</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>333</xmin>
-			<ymin>200</ymin>
-			<xmax>473</xmax>
-			<ymax>330</ymax>
+			<xmin>300</xmin>
+			<ymin>658</ymin>
+			<xmax>495</xmax>
+			<ymax>836</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>734</xmin>
-			<ymin>19</ymin>
-			<xmax>843</xmax>
-			<ymax>143</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Eritrosit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>137</xmin>
-			<ymin>309</ymin>
-			<xmax>225</xmax>
-			<ymax>397</ymax>
+			<xmin>52</xmin>
+			<ymin>802</ymin>
+			<xmax>175</xmax>
+			<ymax>921</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>374</ymin>
-			<xmax>95</xmax>
-			<ymax>489</ymax>
+			<xmin>165</xmin>
+			<ymin>868</ymin>
+			<xmax>280</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>862</ymin>
+			<xmax>512</xmax>
+			<ymax>960</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>73</xmin>
-			<ymin>386</ymin>
-			<xmax>186</xmax>
-			<ymax>481</ymax>
+			<xmin>512</xmin>
+			<ymin>825</ymin>
+			<xmax>639</xmax>
+			<ymax>953</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>533</xmin>
-			<ymin>333</ymin>
-			<xmax>643</xmax>
-			<ymax>444</ymax>
+			<xmin>637</xmin>
+			<ymin>792</ymin>
+			<xmax>745</xmax>
+			<ymax>917</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>689</xmin>
-			<ymin>308</ymin>
-			<xmax>778</xmax>
-			<ymax>408</ymax>
+			<xmin>593</xmin>
+			<ymin>661</ymin>
+			<xmax>702</xmax>
+			<ymax>772</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1006</xmin>
-			<ymin>153</ymin>
-			<xmax>1133</xmax>
-			<ymax>272</ymax>
+			<xmin>648</xmin>
+			<ymin>603</ymin>
+			<xmax>750</xmax>
+			<ymax>714</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,9 +113,81 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1030</xmin>
-			<ymin>17</ymin>
-			<xmax>1139</xmax>
+			<xmin>330</xmin>
+			<ymin>428</ymin>
+			<xmax>452</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>221</ymin>
+			<xmax>367</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>22</ymin>
+			<xmax>464</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>8</ymin>
+			<xmax>356</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>14</ymin>
+			<xmax>228</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>2</ymin>
+			<xmax>661</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>15</ymin>
+			<xmax>746</xmax>
 			<ymax>133</ymax>
 		</bndbox>
 	</object>
@@ -125,10 +197,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1143</xmin>
-			<ymin>236</ymin>
-			<xmax>1236</xmax>
-			<ymax>347</ymax>
+			<xmin>712</xmin>
+			<ymin>267</ymin>
+			<xmax>823</xmax>
+			<ymax>393</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1155</xmin>
-			<ymin>494</ymin>
-			<xmax>1273</xmax>
-			<ymax>630</ymax>
+			<xmin>695</xmin>
+			<ymin>375</ymin>
+			<xmax>806</xmax>
+			<ymax>496</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -149,10 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1071</xmin>
-			<ymin>783</ymin>
-			<xmax>1167</xmax>
-			<ymax>886</ymax>
+			<xmin>650</xmin>
+			<ymin>422</ymin>
+			<xmax>777</xmax>
+			<ymax>555</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -161,82 +233,118 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>959</xmin>
-			<ymin>706</ymin>
-			<xmax>1074</xmax>
-			<ymax>806</ymax>
+			<xmin>906</xmin>
+			<ymin>739</ymin>
+			<xmax>1008</xmax>
+			<ymax>855</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Neutrofil</name>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymin>790</ymin>
+			<xmax>1178</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>9</xmin>
-			<ymin>487</ymin>
-			<xmax>214</xmax>
-			<ymax>761</ymax>
+			<xmin>998</xmin>
+			<ymin>650</ymin>
+			<xmax>1120</xmax>
+			<ymax>772</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Neutrofil</name>
+		<name>Eritrosit</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>852</xmin>
-			<ymin>480</ymin>
-			<xmax>1071</xmax>
-			<ymax>678</ymax>
+			<xmin>1064</xmin>
+			<ymin>214</ymin>
+			<xmax>1205</xmax>
+			<ymax>375</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Limfoblast</name>
+		<name>Eritrosit</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>218</xmin>
-			<ymin>300</ymin>
-			<xmax>411</xmax>
-			<ymax>539</ymax>
+			<xmin>1174</xmin>
+			<ymin>306</ymin>
+			<xmax>1277</xmax>
+			<ymax>419</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Limfoblast</name>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1018</xmin>
+			<ymin>47</ymin>
+			<xmax>1134</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>940</xmin>
+			<ymin>8</ymin>
+			<xmax>1028</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eritrosit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>2</ymin>
+			<xmax>955</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>658</ymin>
+			<xmax>52</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>170</xmin>
-			<ymin>589</ymin>
-			<xmax>355</xmax>
-			<ymax>781</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Limfoblast</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>820</xmin>
-			<ymin>299</ymin>
-			<xmax>1002</xmax>
-			<ymax>486</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Limfoblast</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>999</xmin>
-			<ymin>274</ymin>
-			<xmax>1173</xmax>
-			<ymax>508</ymax>
+			<ymin>706</ymin>
+			<xmax>199</xmax>
+			<ymax>740</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -245,10 +353,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>200</xmin>
-			<ymin>292</ymin>
-			<xmax>224</xmax>
-			<ymax>324</ymax>
+			<xmin>439</xmin>
+			<ymin>542</ymin>
+			<xmax>480</xmax>
+			<ymax>575</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -257,10 +365,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>602</xmin>
-			<ymin>80</ymin>
-			<xmax>646</xmax>
-			<ymax>128</ymax>
+			<xmin>596</xmin>
+			<ymin>537</ymin>
+			<xmax>636</xmax>
+			<ymax>572</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -269,10 +377,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>261</xmin>
-			<ymin>81</ymin>
-			<xmax>292</xmax>
-			<ymax>108</ymax>
+			<xmin>848</xmin>
+			<ymin>897</ymin>
+			<xmax>877</xmax>
+			<ymax>928</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -281,10 +389,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>452</xmin>
-			<ymin>399</ymin>
-			<xmax>484</xmax>
-			<ymax>430</ymax>
+			<xmin>987</xmin>
+			<ymin>912</ymin>
+			<xmax>1012</xmax>
+			<ymax>943</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -293,10 +401,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>587</xmin>
-			<ymin>209</ymin>
-			<xmax>630</xmax>
-			<ymax>253</ymax>
+			<xmin>400</xmin>
+			<ymin>880</ymin>
+			<xmax>433</xmax>
+			<ymax>917</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -305,10 +413,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>880</xmin>
-			<ymin>237</ymin>
-			<xmax>917</xmax>
-			<ymax>274</ymax>
+			<xmin>670</xmin>
+			<ymin>118</ymin>
+			<xmax>700</xmax>
+			<ymax>155</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -317,9 +425,93 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>733</xmin>
-			<ymin>162</ymin>
-			<xmax>764</xmax>
+			<xmin>1109</xmin>
+			<ymin>28</ymin>
+			<xmax>1139</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>58</ymin>
+			<xmax>1162</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>834</ymin>
+			<xmax>408</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>384</ymin>
+			<xmax>403</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>389</ymin>
+			<xmax>437</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>183</ymin>
+			<xmax>1011</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>286</ymin>
+			<xmax>943</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Platelet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>153</ymin>
+			<xmax>80</xmax>
 			<ymax>192</ymax>
 		</bndbox>
 	</object>
@@ -329,10 +521,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>531</xmin>
-			<ymin>68</ymin>
-			<xmax>568</xmax>
-			<ymax>103</ymax>
+			<xmin>15</xmin>
+			<ymin>542</ymin>
+			<xmax>56</xmax>
+			<ymax>580</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -341,118 +533,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>384</xmin>
-			<ymin>122</ymin>
-			<xmax>421</xmax>
-			<ymax>159</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>356</xmin>
-			<ymin>17</ymin>
-			<xmax>392</xmax>
-			<ymax>46</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>250</xmin>
-			<ymin>44</ymin>
-			<xmax>284</xmax>
-			<ymax>72</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>246</xmin>
-			<ymin>106</ymin>
-			<xmax>284</xmax>
-			<ymax>139</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>105</xmin>
-			<ymin>56</ymin>
-			<xmax>130</xmax>
-			<ymax>93</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>55</xmin>
-			<ymin>137</ymin>
-			<xmax>80</xmax>
-			<ymax>169</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>225</xmin>
-			<ymin>231</ymin>
-			<xmax>265</xmax>
-			<ymax>268</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>477</xmin>
-			<ymin>639</ymin>
-			<xmax>515</xmax>
-			<ymax>684</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>481</xmin>
-			<ymin>731</ymin>
-			<xmax>515</xmax>
-			<ymax>764</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Platelet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>430</xmin>
-			<ymin>55</ymin>
-			<xmax>468</xmax>
-			<ymax>92</ymax>
+			<xmin>498</xmin>
+			<ymin>302</ymin>
+			<xmax>517</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 </annotation>
